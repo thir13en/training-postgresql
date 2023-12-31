@@ -27,6 +27,7 @@ psql
 \list or \l: list all databases
 \dt: list all tables in the current database using your search_path
 \dt *.: list all tables in the current database regardless your search_path
+CTRL+D: Exit the postgres command line
 ```
 
 ### Create table example
